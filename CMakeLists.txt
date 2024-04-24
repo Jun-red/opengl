@@ -75,7 +75,7 @@ include_directories(glm)
 include_directories(imgui)
 aux_source_directory(${CMAKE_SOURCE_DIR}/imgui  imgui_cpp) 
 
-set(compile_path src/triangle02)
+set(compile_path src/shader03)
 
 include_directories(${compile_path} )
 aux_source_directory(${compile_path}  files)  
