@@ -1,5 +1,12 @@
 # OPENGL IMGUI
 
+## [0.0.4]  date : 2024-4-25
+[+] 增加第4个demo - src/matrix04 《矩阵变换》
+[+] @note 向量的加减 https://blog.csdn.net/dengziyun/article/details/118303598
+[+] 增加3D坐标轴
+[+] 增加 坐标系统转换，并对坐标轴进行应用
+[+] IMGUI部分:a. button文本切换; b. axes旋转与复位逻辑
+
 ## [0.0.3]  date : 2024-4-24
 [+] 更新ReadMe.md笔记，增加有关uniform相关的内容
 [+] 增加第3个demo - src/shader03 《着色器》
